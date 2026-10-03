@@ -1,0 +1,11 @@
+{
+  "name": "guandan-relay",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "scripts": {
+    "start": "node guandan-relay-server.js"
+  }
+}

@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #0b1c14;
+  --color-surface: #143628;
+  --color-fg: #f5e4bd;
+  --color-muted: #b8c9be;
+  --color-primary: #d4af37;
+  --color-border: #557b68;
+  --radius: 0.75rem;
+  --font-sans: "PingFang SC", "Noto Sans SC", "Segoe UI", system-ui, sans-serif;
+}
+
+@layer base {
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+  html,
+  body,
+  #app {
+    height: 100%;
+    margin: 0;
+    background: #0b1c14;
+    color: #f5e4bd;
+  }
+}

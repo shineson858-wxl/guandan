@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/guandan.html",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "银河科技 · 掼蛋专业竞技场 (GalaxyTECK 从打2开局重置版)",
+      "hasCanvas": false,
+      "bodyTextLen": 166,
+      "bodyTextHash": "b899823fee971342d58ce2bdbfa0a2580d2f9b03920f78fc76e23fe103ad8095",
+      "bodyTextPrefix": "横屏 银河科技 · 掼蛋竞技场 支持多人联网 · 真人不足时电脑自动补位 无需服务器：上传 HTML 即可联机 · 双方用同一网",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/gd-lobby.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "银河科技 · 掼蛋专业竞技场 (GalaxyTECK 从打2开局重置版)",
+      "hasCanvas": false,
+      "bodyTextLen": 169,
+      "bodyTextHash": "ac3e16b0ce00dc7fc58b22787f129af6c83681a7514f3bc4bbea5e8ca381f4fa",
+      "bodyTextPrefix": "手机 横屏 银河科技 · 掼蛋竞技场 支持多人联网 · 真人不足时电脑自动补位 无需服务器：上传 HTML 即可联机 · 双方用",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/gd-lobby-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/gd-lobby.json"
+}
